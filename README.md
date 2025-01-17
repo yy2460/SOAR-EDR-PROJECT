@@ -36,4 +36,8 @@ Ability to send detection and response alerts through emails or to a shared comm
 15. I generated the test event on my Windows 10 Pro VM, confirmed the messages were sent to both Slack and my email, and selected "Yes" on the user prompt page. I then confirmed that the machine was isolated on
 ![image](https://github.com/user-attachments/assets/ab17a3d5-cc54-4031-b07c-7cbf5479253d)
 ![image](https://github.com/user-attachments/assets/d72c5da4-b501-4881-9f84-41282086bfa2)
+![image](https://github.com/user-attachments/assets/b5f1d884-36fd-420d-8480-318e10b6c4ea)
+![image](https://github.com/user-attachments/assets/0cf443ba-a9ae-4ba3-9abe-fc6b670a9a56)
+
+
 
